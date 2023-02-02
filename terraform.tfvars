@@ -1,3 +1,3 @@
-rgname = "BRYrg"
-loc = "Central India"
-pipname = "BRYpip"
+rgname = "BRYrg1"
+loc = "South UK"
+pipname = "BRYpip1"
